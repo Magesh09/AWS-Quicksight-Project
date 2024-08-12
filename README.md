@@ -15,6 +15,7 @@
 7. [Applying Filters](#applying-filters)
 8. [Finalize Your Dashboard!](#finalize-your-dashboard)
 9. [Key Learnings and Takeaways](#key-learnings-and-takeaways)
+10. [Broadcast Video](#broadcast-video)
 
 ## Introducing Amazon QuickSight
 
@@ -85,3 +86,7 @@ Here’s the finished dashboard:
 2. **Diverse Visualization Types:** The platform provides a range of visualization types, including bar charts, line graphs, and pivot tables, allowing users to choose the most effective format for their data insights and presentation needs.
 3. **Interactive Features:** QuickSight’s interactive features, such as filters and drill-down options, enable dynamic exploration of data, helping users uncover deeper insights and make more informed decisions.
 4. **Advanced Insights:** Leveraging built-in machine learning tools and real-time analytics, QuickSight provides advanced insights and forecasting capabilities, enhancing the ability to anticipate trends and make data-driven decisions.
+
+## BroadCast Video
+
+Link :  https://lnkd.in/gH4bR-KM
